@@ -230,7 +230,7 @@ function App() {
                 <i className="fas fa-tools"></i>
               </div>
               <div className="topic">Project Tools</div>
-              <p>1+ year experience in Project mangagement Tools like GIT,Jira.</p>
+              <p>2+ year experience in Project mangagement Tools like GIT,Jira.</p>
             </div>
             <div className="box">
               <div className="icon">
