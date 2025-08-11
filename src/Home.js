@@ -23,9 +23,9 @@
 //       <div className="home-text">
 //         <span>hello, I'm</span>
 //         <h1>Yajnesh N U</h1>
-//         <h2 className="cir">Frontend Developer</h2>
+//         <h2 className="cir">Analyst</h2>
 //         <p>
-//           "I'm an aspiring web developer with a deep interest in the creative field, committed to continuous learning and improving processes. And excited to explore new things and stay up-to-date with the latest technologies."
+//           "Started as a Front-End Developer, now a Product Analyst with a strong interest in the creative and analytical aspects of technology. Committed to continuous learning, process improvement, and delivering data-driven insights. Enthusiastic about exploring new tools and staying current with emerging technologies."
 //         </p>
 //         <a href="https://drive.google.com/file/d/1B45C&18RE1Bav1J4doqstZgtCc7C2YYp/view?usp=drivesdk" className="btn">Download CV</a>
 //       </div>
