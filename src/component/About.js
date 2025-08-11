@@ -17,7 +17,7 @@ function About() {
               <div className="topic">
 Designing Is My Passion</div>
               <p>
-              "Hi, I'm Yajnesh NU, a Front-End developer with over a 2+    year of experience at Infosys. I'm skilled in Java, HTML, CSS, and JavaScript, React, React-native and have worked in various industries. Now, I'm seeking new challenges and opportunities for growth in a new company. I'm a team player committed to delivering high-quality solutions and exploring new possibilities together."
+              "Hi, I'm Yajnesh NU, a product analyst and developemt with over a 2+    year of experience at Infosys and consilio. I'm skilled in Java, HTML, CSS, and JavaScript, React, React-native and have worked in various industries. Now, I'm seeking new challenges and opportunities for growth in a new company. I'm a team player committed to delivering high-quality solutions and exploring new possibilities together."
               </p>
               <div className="button">
                 <div className="information">
