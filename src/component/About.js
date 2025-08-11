@@ -3,7 +3,7 @@ import './Css.css'
 
 
 function About() {
-    const pdfFilePath = './YajneshNU.pdf';
+    const pdfFilePath = './YajneshNU.pdf'; 
   return (
     <div>
             <section className="about" id="about">
