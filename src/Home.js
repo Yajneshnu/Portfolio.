@@ -23,7 +23,7 @@
 //       <div className="home-text">
 //         <span>hello, I'm</span>
 //         <h1>Yajnesh N U</h1>
-//         <h2 className="cir">Analyst</h2>
+//         <h2 className="cir"> Analyst</h2>
 //         <p>
 //           "Started as a Front-End Developer, now a Product Analyst with a strong interest in the creative and analytical aspects of technology. Committed to continuous learning, process improvement, and delivering data-driven insights. Enthusiastic about exploring new tools and staying current with emerging technologies."
 //         </p>
