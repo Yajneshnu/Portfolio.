@@ -190,10 +190,10 @@ function App() {
           <div className="text">
             <div className="text-one">Hello,</div>
             <div className="text-two">I'm Yajnesh N U</div>
-            <div className="text-three">Front-End Developer</div>
+            <div className="text-three">Analyst</div>
             <div className="text-four">From India</div>
             <p className="text-five">
-            "I'm an aspiring web developer with a deep interest in the creative field,
+            "I'm an aspiring product analyst with a deep interest in the creative data field,
             <br/>committed to continuous learning and improving processes. <br/>
             And excited to explore new things and stay up-to-date with the latest technologies."
           </p>
@@ -214,7 +214,7 @@ function App() {
               <div className="icon">
                 <i className="fas fa-desktop"></i>
               </div>
-              <div className="topic">Web Devlopment</div>
+              <div className="topic">Web/APP Devlopment</div>
               <p>2+ year industrial experience.</p>
             </div>
             {/* ... (Add more service boxes as needed) */}
@@ -222,21 +222,21 @@ function App() {
               <div className="icon">
                 <i className="fas fa-mobile"></i>
               </div>
-              <div className="topic">App Devlopment</div>
-              <p>1+ year industrial experience.</p>
+              <div className="topic">Data Analysis</div>
+              <p>2+ year industrial experience.</p>
             </div>
             <div className="box">
               <div className="icon">
                 <i className="fas fa-tools"></i>
               </div>
               <div className="topic">Project Tools</div>
-              <p>2+ year experience in Project mangagement Tools like GIT,Jira.</p>
+              <p>2+ year experience in Project mangagement Tools like GIT,Jira, ServiceNow.</p>
             </div>
             <div className="box">
               <div className="icon">
                 <i className="fas fa-cloud"></i>
               </div>
-              <div className="topic">Cloud Computing</div>
+              <div className="topic">Cloud and Data Base</div>
               <p>A year of industrial experience in SFMC and Currently advancing my skills by mastering cloud technologies(AWS)</p>
             </div>
           
